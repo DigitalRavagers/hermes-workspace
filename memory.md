@@ -57,3 +57,7 @@
 - CLI: cd /home/hermes/gbrain && bun run src/cli.ts <command>
 - Key commands: init, ask, search, query, import, sync, doctor
 - Adds: knowledge graph + synthesis layer on top of Open Notebook
+
+## Google Drive (CONNECTED)
+- Remote: gdrive: (rclone, OAuth configured Jun 2026)
+- Sync path: /home/hermes/hermes-workspace/AGI-OS/ → gdrive:AGI-OS/
