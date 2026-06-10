@@ -43,3 +43,11 @@
 2. Rhynia — Stage 3 monetisation UI, then Stage 4 Agent
 3. AGI OS wiring — Hermes ↔ Open Notebook ↔ AGI Dashboard tight integration
 4. Red Unicorn — stealth, early stage
+
+## GBrain (Installed)
+- Location: /home/hermes/gbrain/ (v0.42.38.0, Bun-powered)
+- Data: /home/hermes/gbrain-data/ (PGLite, embedded Postgres)
+- Config: /home/hermes/gbrain/.env (Kilo Code API, Gemini 2.5 Flash)
+- CLI: cd /home/hermes/gbrain && bun run src/cli.ts <command>
+- Key commands: init, ask, search, query, import, sync, doctor
+- Adds: knowledge graph + synthesis layer on top of Open Notebook
