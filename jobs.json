@@ -1,0 +1,47 @@
+{
+  "jobs": [
+    {
+      "id": "morning-digest",
+      "name": "Morning Priority Digest",
+      "schedule": "30 2 * * *",
+      "description": "8:00 AM IST — fetch open tasks + voice notes, synthesise priorities, Telegram George",
+      "skill": "agent-harness",
+      "action": "morning_digest",
+      "enabled": true
+    },
+    {
+      "id": "workspace-sync",
+      "name": "Workspace Git + Drive Sync",
+      "schedule": "0 */4 * * *",
+      "description": "Every 4 hours — commit workspace changes to GitHub, sync AGI-OS/ to Google Drive",
+      "command": "/home/hermes/bin/hermes-sync.sh",
+      "enabled": true
+    },
+    {
+      "id": "nightly-github-backup",
+      "name": "Nightly GitHub Backup",
+      "schedule": "30 18 * * *",
+      "description": "Midnight IST — full git push of all workspace files",
+      "command": "/home/hermes/bin/hermes-sync.sh",
+      "enabled": true
+    },
+    {
+      "id": "voicenotes-digest",
+      "name": "VoiceNotes Daily Digest",
+      "schedule": "0 14 * * *",
+      "description": "7:30 PM IST — process today's voice notes, update intelligence files",
+      "skill": "voicenotes-opennotebook",
+      "action": "daily_digest",
+      "enabled": true
+    },
+    {
+      "id": "intelligence-update",
+      "name": "Weekly Intelligence Report",
+      "schedule": "0 3 * * 0",
+      "description": "8:30 AM IST Sunday — cross-project pattern + recommendation update",
+      "skill": "agent-harness",
+      "action": "intelligence_update",
+      "enabled": true
+    }
+  ]
+}

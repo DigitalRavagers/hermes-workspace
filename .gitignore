@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+*.secret
+profiles.json
+rclone.conf
+__pycache__/
+*.pyc
+node_modules/
+.bun/
