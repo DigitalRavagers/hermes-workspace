@@ -57,7 +57,6 @@ Workflow:
 
 ## Config
 .env at /home/hermes/gbrain/.env
-- OPENAI_API_KEY: Kilo Code JWT
-- OPENAI_BASE_URL: https://api.kilo.ai/api/gateway
-- GBRAIN_LLM_MODEL: google/gemini-2.5-flash
+- OPENAI_API_KEY: Native OpenAI key (direct, not gateway)
+- GBRAIN_LLM_MODEL: gpt-4o-mini
 - GBRAIN_EMBEDDING_MODEL: text-embedding-3-small
