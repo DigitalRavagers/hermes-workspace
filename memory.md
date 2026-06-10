@@ -44,6 +44,12 @@
 3. AGI OS wiring — Hermes ↔ Open Notebook ↔ AGI Dashboard tight integration
 4. Red Unicorn — stealth, early stage
 
+## GitHub Workspace (LIVE)
+- Repo: https://github.com/DigitalRavagers/hermes-workspace
+- Auto-sync: /home/hermes/bin/hermes-sync.sh (every 4h + nightly via jobs.json)
+- Contents: soul.md, user.md, memory.md, jobs.json, skills/, AGI-OS/
+- PAT stored: /home/hermes/.hermes/.github_token (not tracked by git)
+
 ## GBrain (Installed)
 - Location: /home/hermes/gbrain/ (v0.42.38.0, Bun-powered)
 - Data: /home/hermes/gbrain-data/ (PGLite, embedded Postgres)
