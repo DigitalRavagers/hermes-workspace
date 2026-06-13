@@ -1,0 +1,10 @@
+name: "LinkedIn Email Enrichment"
+slug: "linkedin-email-enrichment"
+description: "Finds email addresses and contact details for LinkedIn leads using the Apify Leads Finder actor (code_crafter/leads-finder). Runs automatically after LinkedIn profile scraping in the onboarding pipeline, and can also be triggered standalone"
+trigger: "When George asks to linkedin email enrichment."
+category: lead-generation
+tags: ["linkedin", "email", "enrichment"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

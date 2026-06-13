@@ -1,0 +1,10 @@
+name: "Twitter Engage Skill"
+slug: "twitter-engage"
+description: "Like, retweet, and comment on Twitter/X posts from a specified account using browser automation."
+trigger: "When George asks to twitter engage."
+category: social-engagement
+tags: ["twitter", "engage"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

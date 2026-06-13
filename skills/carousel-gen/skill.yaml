@@ -1,0 +1,10 @@
+name: "carousel-gen"
+slug: "carousel-gen"
+description: "Multi-image carousel pipeline for {{PERSONA_NAME}} \u2014 generates on-brand carousel slides promoting Samoa tourism via {{BRAND_NAME}}."
+trigger: "When George asks to carousel gen."
+category: content-creation
+tags: ["carousel", "gen"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

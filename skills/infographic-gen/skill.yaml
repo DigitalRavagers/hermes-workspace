@@ -1,0 +1,10 @@
+name: "infographic-gen"
+slug: "infographic-gen"
+description: "Infographic and newspaper-style news post pipeline for {{PERSONA_NAME}} \u2014 generates 4:5 images with text overlay paired with written captions for social media."
+trigger: "When George asks to infographic gen."
+category: content-creation
+tags: ["infographic", "gen"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

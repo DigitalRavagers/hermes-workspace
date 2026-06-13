@@ -1,0 +1,10 @@
+name: "Gemini Viral Shorts Post Generator"
+slug: "gemini-viral-shorts"
+description: "name: gemini-viral-shorts"
+trigger: "When George asks to gemini viral shorts."
+category: content-creation
+tags: ["gemini", "viral", "shorts"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

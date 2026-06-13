@@ -1,0 +1,10 @@
+name: "LinkedIn Connection Agent"
+slug: "linkedin-connection-agent"
+description: "name: linkedin-connection-agent"
+trigger: "When George asks to linkedin connection agent."
+category: content-creation
+tags: ["linkedin", "connection", "agent"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

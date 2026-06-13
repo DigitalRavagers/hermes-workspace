@@ -1,0 +1,10 @@
+name: "YouTube to HeyGen Long-Form Avatar Video"
+slug: "youtube-to-heygen-longform"
+description: "name: youtube-to-heygen-longform"
+trigger: "When George asks to youtube to heygen longform."
+category: content-creation
+tags: ["youtube", "heygen", "longform"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

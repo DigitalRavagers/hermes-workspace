@@ -1,0 +1,10 @@
+name: "LinkedIn Lead Enrichment"
+slug: "linkedin-lead-enrichment"
+description: "Enrich LinkedIn leads with additional data via scripts."
+trigger: "When George asks to linkedin lead enrichment."
+category: lead-generation
+tags: ["linkedin", "lead", "enrichment"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

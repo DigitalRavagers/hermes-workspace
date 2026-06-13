@@ -1,0 +1,10 @@
+name: "Instagram Lead Scraper"
+slug: "instagram-lead-scraper"
+description: "name: instagram-lead-scraper"
+trigger: "When George asks to instagram lead scraper."
+category: lead-generation
+tags: ["instagram", "lead", "scraper"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

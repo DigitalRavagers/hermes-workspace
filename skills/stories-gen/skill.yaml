@@ -1,0 +1,10 @@
+name: "stories-gen"
+slug: "stories-gen"
+description: "Vertical story frame pipeline for {{PERSONA_NAME}} \u2014 generates 3-5 story frames (9:16) with text overlays, then stitches them into a 15-second video with crossfade transitions."
+trigger: "When George asks to stories gen."
+category: content-creation
+tags: ["stories", "gen"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

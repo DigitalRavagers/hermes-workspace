@@ -1,0 +1,10 @@
+name: "LinkedIn Profile Search Scraper (Apify)"
+slug: "linkedin-profile-scraper"
+description: "name: linkedin-profile-scraper"
+trigger: "When George asks to linkedin profile scraper."
+category: lead-generation
+tags: ["linkedin", "profile", "scraper"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

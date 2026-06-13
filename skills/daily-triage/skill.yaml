@@ -1,0 +1,10 @@
+name: Daily Triage
+slug: daily-triage
+description: Process the inbox into a prioritized set of daily actions.
+trigger: When George asks to plan the day or process the inbox.
+category: utilities
+tags: [planning, inbox, daily]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: manual

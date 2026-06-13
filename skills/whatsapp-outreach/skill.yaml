@@ -1,0 +1,10 @@
+name: "First run \u2014 will open browser for QR scan"
+slug: "whatsapp-outreach"
+description: "name: whatsapp-outreach"
+trigger: "When George asks to whatsapp outreach."
+category: outreach
+tags: ["whatsapp", "outreach"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

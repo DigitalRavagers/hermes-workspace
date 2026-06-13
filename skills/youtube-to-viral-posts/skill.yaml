@@ -1,0 +1,10 @@
+name: "YouTube to Viral Posts"
+slug: "youtube-to-viral-posts"
+description: "name: youtube-to-viral-posts"
+trigger: "When George asks to youtube to viral posts."
+category: content-creation
+tags: ["youtube", "viral", "posts"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

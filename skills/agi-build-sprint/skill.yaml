@@ -1,0 +1,10 @@
+name: AGI Build Sprint
+slug: agi-build-sprint
+description: A focused build/work session on the AGI Dashboard or any project build block.
+trigger: When George starts a focused build or work session on a project.
+category: utilities
+tags: [build, planning, sessions]
+project: agi-dashboard
+inputs: []
+entrypoint: SKILL.md
+source: manual

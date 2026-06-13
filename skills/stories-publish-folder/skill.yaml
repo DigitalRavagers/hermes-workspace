@@ -1,0 +1,10 @@
+name: "Stories Publish \u2014 Folder Method"
+slug: "stories-publish-folder"
+description: "name: stories-publish-folder"
+trigger: "When George asks to stories publish folder."
+category: publishing
+tags: ["stories", "publish", "folder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

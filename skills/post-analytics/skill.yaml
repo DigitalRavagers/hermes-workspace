@@ -1,0 +1,10 @@
+name: "post-analytics"
+slug: "post-analytics"
+description: "Sync post-level analytics from Late API into the database. Pulls performance metrics for each published post (impressions, reach, likes, comments, shares, saves, views, engagement rate) and stores per-platform breakdowns into the platform-s"
+trigger: "When George asks to post analytics."
+category: analytics
+tags: ["post", "analytics"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

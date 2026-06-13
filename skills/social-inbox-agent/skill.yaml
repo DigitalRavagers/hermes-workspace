@@ -1,0 +1,10 @@
+name: "Process all unreplied messages"
+slug: "social-inbox-agent"
+description: "name: social-inbox-agent"
+trigger: "When George asks to social inbox agent."
+category: content-creation
+tags: ["social", "inbox", "agent"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

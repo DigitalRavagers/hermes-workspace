@@ -1,0 +1,10 @@
+name: "Knowledge Graph Re-Index"
+slug: "knowledge-graph-reindex"
+description: "name: knowledge-graph-reindex"
+trigger: "When George asks to knowledge graph reindex."
+category: utilities
+tags: ["knowledge", "graph", "reindex"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

@@ -1,0 +1,10 @@
+name: "Apify Google Maps Scraper"
+slug: "apify-google-maps"
+description: "name: apify-google-maps"
+trigger: "When George asks to apify google maps."
+category: lead-generation
+tags: ["apify", "google", "maps"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

@@ -1,0 +1,10 @@
+name: "Find Skills"
+slug: "find-skills"
+description: "name: find-skills"
+trigger: "When George asks to find skills."
+category: utilities
+tags: ["find", "skills"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

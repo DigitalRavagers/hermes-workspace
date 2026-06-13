@@ -1,0 +1,10 @@
+name: "Facebook Page Finder"
+slug: "facebook-page-finder"
+description: "name: facebook-page-finder"
+trigger: "When George asks to facebook page finder."
+category: lead-generation
+tags: ["facebook", "page", "finder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

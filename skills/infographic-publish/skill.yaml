@@ -1,0 +1,10 @@
+name: "infographic-publish"
+slug: "infographic-publish"
+description: "Publishes {{PERSONA_NAME}} infographic posts to Instagram, Facebook, and Twitter/X via the Late API."
+trigger: "When George asks to infographic publish."
+category: content-creation
+tags: ["infographic", "publish"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

@@ -1,0 +1,10 @@
+name: "Longform Video Clone Pipeline"
+slug: "longform-video-clone-edit"
+description: "name: longform-video-clone-edit"
+trigger: "When George asks to longform video clone edit."
+category: content-creation
+tags: ["longform", "video", "clone", "edit"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

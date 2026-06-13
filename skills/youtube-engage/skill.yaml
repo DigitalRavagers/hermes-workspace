@@ -1,0 +1,10 @@
+name: "YouTube Engage Skill"
+slug: "youtube-engage"
+description: "Like and comment on YouTube videos from a specified channel using browser automation."
+trigger: "When George asks to youtube engage."
+category: social-engagement
+tags: ["youtube", "engage"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

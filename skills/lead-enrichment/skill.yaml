@@ -1,0 +1,10 @@
+name: "Lead Enrichment"
+slug: "lead-enrichment"
+description: "name: lead-enrichment"
+trigger: "When George asks to lead enrichment."
+category: lead-generation
+tags: ["lead", "enrichment"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

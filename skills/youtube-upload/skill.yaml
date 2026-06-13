@@ -1,0 +1,10 @@
+name: "YouTube Upload"
+slug: "youtube-upload"
+description: "name: youtube-upload"
+trigger: "When George asks to youtube upload."
+category: utilities
+tags: ["youtube", "upload"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

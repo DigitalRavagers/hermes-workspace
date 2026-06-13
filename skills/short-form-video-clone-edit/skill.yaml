@@ -1,0 +1,10 @@
+name: "Face Swap Clone Pipeline"
+slug: "short-form-video-clone-edit"
+description: "name: short-form-video-clone-edit"
+trigger: "When George asks to short form video clone edit."
+category: content-creation
+tags: ["short", "form", "video", "clone", "edit"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

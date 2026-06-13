@@ -1,0 +1,10 @@
+name: "LinkedIn Engage (Like & Comment)"
+slug: "linkedin-engage"
+description: "name: linkedin-engage"
+trigger: "When George asks to linkedin engage."
+category: social-engagement
+tags: ["linkedin", "engage"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

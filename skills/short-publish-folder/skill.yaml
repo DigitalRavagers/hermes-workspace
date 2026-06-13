@@ -1,0 +1,10 @@
+name: "Short Publish \u2014 Folder Method"
+slug: "short-publish-folder"
+description: "Publish your own short-form videos to all platforms from a local folder."
+trigger: "When George asks to short publish folder."
+category: content-creation
+tags: ["short", "publish", "folder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

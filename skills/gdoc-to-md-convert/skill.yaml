@@ -1,0 +1,11 @@
+name: gdoc-to-md-convert
+description: Convert .gdoc files in AGI-OS vault to .md for Obsidian and GBrain
+trigger: nightly cron (midnight IST, after hermes-sync), or on-demand
+agent: hermes
+model: kilo-auto/free
+tags: [vault, automation, conversion, obsidian, gbrain]
+cron: "30 18 * * *"  # 18:30 UTC = midnight IST (runs after main midnight cron)
+folders:
+  - gdrive:AGI-OS/voicenotes/
+  - gdrive:AGI-OS/daily/
+output: .md files alongside each .gdoc in the same Drive folder

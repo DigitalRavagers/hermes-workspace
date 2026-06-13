@@ -1,0 +1,10 @@
+name: "LinkedIn Notifications Checker"
+slug: "linkedin-notifications"
+description: "name: linkedin-notifications"
+trigger: "When George asks to linkedin notifications."
+category: social-engagement
+tags: ["linkedin", "notifications"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

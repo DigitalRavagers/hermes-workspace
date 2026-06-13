@@ -1,0 +1,10 @@
+name: "Longform Publish \u2014 Folder Method"
+slug: "longform-publish-folder"
+description: "name: longform-publish-folder"
+trigger: "When George asks to longform publish folder."
+category: content-creation
+tags: ["longform", "publish", "folder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

@@ -1,0 +1,10 @@
+name: "Instagram DM Sales Agent"
+slug: "instagram-dm-sales-agent"
+description: "name: instagram-dm-sales-agent"
+trigger: "When George asks to instagram dm sales agent."
+category: content-creation
+tags: ["instagram", "sales", "agent"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

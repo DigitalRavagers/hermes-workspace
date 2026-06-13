@@ -1,0 +1,10 @@
+name: "stories-publish"
+slug: "stories-publish"
+description: "Publishes {{PERSONA_NAME}} story videos to Instagram Stories and Facebook Stories via the Late API."
+trigger: "When George asks to stories publish."
+category: publishing
+tags: ["stories", "publish"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

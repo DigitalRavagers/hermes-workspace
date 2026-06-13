@@ -1,0 +1,10 @@
+name: "LinkedIn Connect"
+slug: "linkedin-connect"
+description: "name: linkedin-connect"
+trigger: "When George asks to linkedin connect."
+category: outreach
+tags: ["linkedin", "connect"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

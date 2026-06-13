@@ -1,0 +1,10 @@
+name: "Instagram Engage"
+slug: "instagram-engage"
+description: "Automated Instagram engagement (likes, comments, follows) via scripts."
+trigger: "When George asks to instagram engage."
+category: social-engagement
+tags: ["instagram", "engage"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

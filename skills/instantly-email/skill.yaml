@@ -1,0 +1,10 @@
+name: "Instantly Email Outreach"
+slug: "instantly-email"
+description: "name: instantly-email"
+trigger: "When George asks to instantly email."
+category: outreach
+tags: ["instantly", "email"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

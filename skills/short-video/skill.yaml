@@ -1,0 +1,10 @@
+name: "short-video"
+slug: "short-video"
+description: "Short-form vertical video pipeline for {{PERSONA_NAME}} \u2014 generates Reels/Shorts/TikToks promoting Samoa tourism via {{BRAND_NAME}}."
+trigger: "When George asks to short video."
+category: content-creation
+tags: ["short", "video"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

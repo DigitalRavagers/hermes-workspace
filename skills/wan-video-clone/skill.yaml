@@ -1,0 +1,10 @@
+name: "WAN 2.2 AI Video Clone Pipeline (Chunked)"
+slug: "wan-video-clone"
+description: "name: wan-video-clone"
+trigger: "When George asks to wan video clone."
+category: content-creation
+tags: ["wan", "video", "clone"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

@@ -1,0 +1,10 @@
+name: "Skill: nano-banana-image-gen"
+slug: "nano-banana-image-gen"
+description: "Generate and edit images using FAL's Nano Banana 2 model (fal-ai/nano-banana-2). This is the only image generation model used in this workspace \u2014 all image generation and editing goes through Nano Banana 2 for character consistency."
+trigger: "When George asks to nano banana image gen."
+category: content-creation
+tags: ["nano", "banana", "image", "gen"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

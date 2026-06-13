@@ -1,0 +1,10 @@
+name: "LinkedIn Post"
+slug: "linkedin-post"
+description: "name: linkedin-post"
+trigger: "When George asks to linkedin post."
+category: utilities
+tags: ["linkedin", "post"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

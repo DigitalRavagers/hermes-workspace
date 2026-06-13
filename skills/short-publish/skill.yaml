@@ -1,0 +1,10 @@
+name: "short-publish"
+slug: "short-publish"
+description: "Publishes {{PERSONA_NAME}} short-form videos to all 5 social platforms (Instagram Reels, TikTok, YouTube Shorts, Facebook, Twitter/X) via the Late API."
+trigger: "When George asks to short publish."
+category: content-creation
+tags: ["short", "publish"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

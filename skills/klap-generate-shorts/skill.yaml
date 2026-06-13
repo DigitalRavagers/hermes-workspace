@@ -1,0 +1,10 @@
+name: "Klap Generate Shorts"
+slug: "klap-generate-shorts"
+description: "name: klap-generate-shorts"
+trigger: "When George asks to klap generate shorts."
+category: content-creation
+tags: ["klap", "generate", "shorts"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

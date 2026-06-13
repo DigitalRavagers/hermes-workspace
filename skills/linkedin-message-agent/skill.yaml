@@ -1,0 +1,10 @@
+name: "LinkedIn Message Check & Respond Agent"
+slug: "linkedin-message-agent"
+description: "name: linkedin-message-agent"
+trigger: "When George asks to linkedin message agent."
+category: content-creation
+tags: ["linkedin", "message", "agent"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

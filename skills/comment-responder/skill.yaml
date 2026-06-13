@@ -1,0 +1,10 @@
+name: "comment-responder"
+slug: "comment-responder"
+description: "Auto-respond to comments across all platforms via Late API. Generates personalized replies with a CTA to the academy using Gemini, likes comments, and tracks state in a local JSON file."
+trigger: "When George asks to comment responder."
+category: social-engagement
+tags: ["comment", "responder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

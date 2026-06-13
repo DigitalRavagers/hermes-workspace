@@ -1,0 +1,10 @@
+name: "account-analytics"
+slug: "account-analytics"
+description: "Sync account-level daily analytics from Late API into the database. Pulls daily metrics (impressions, reach, likes, comments, shares, views) per platform, follower counts from connected accounts, and stores everything for trend tracking."
+trigger: "When George asks to account analytics."
+category: analytics
+tags: ["account", "analytics"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

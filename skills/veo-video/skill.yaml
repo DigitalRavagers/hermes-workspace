@@ -1,0 +1,10 @@
+name: "Veo Video"
+slug: "veo-video"
+description: "name: veo-video"
+trigger: "When George asks to veo video."
+category: content-creation
+tags: ["veo", "video"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

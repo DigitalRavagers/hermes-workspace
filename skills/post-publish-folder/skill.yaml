@@ -1,0 +1,10 @@
+name: "Post Publish \u2014 Folder Method"
+slug: "post-publish-folder"
+description: "name: post-publish-folder"
+trigger: "When George asks to post publish folder."
+category: publishing
+tags: ["post", "publish", "folder"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

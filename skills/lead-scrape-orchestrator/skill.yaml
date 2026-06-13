@@ -1,0 +1,10 @@
+name: "Lead Scrape Orchestrator"
+slug: "lead-scrape-orchestrator"
+description: "name: lead-scrape-orchestrator"
+trigger: "When George asks to lead scrape orchestrator."
+category: lead-generation
+tags: ["lead", "scrape", "orchestrator"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

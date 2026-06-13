@@ -1,0 +1,10 @@
+name: "YouTube to HeyGen Avatar Video"
+slug: "youtube-to-heygen-video"
+description: "name: youtube-to-heygen-video"
+trigger: "When George asks to youtube to heygen video."
+category: content-creation
+tags: ["youtube", "heygen", "video"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills

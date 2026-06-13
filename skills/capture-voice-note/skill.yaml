@@ -1,0 +1,10 @@
+name: Capture Voice Note
+slug: capture-voice-note
+description: Turn a voice note into structured memory + actionable inbox items.
+trigger: When a new voice note arrives or George asks to process his voice notes.
+category: utilities
+tags: [voicenotes, capture, memory]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: manual

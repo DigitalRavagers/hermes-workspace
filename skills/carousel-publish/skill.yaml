@@ -1,0 +1,10 @@
+name: "carousel-publish"
+slug: "carousel-publish"
+description: "Publishes {{PERSONA_NAME}} carousel posts to Instagram, TikTok, and Facebook via the Late API."
+trigger: "When George asks to carousel publish."
+category: content-creation
+tags: ["carousel", "publish"]
+project: global
+inputs: []
+entrypoint: SKILL.md
+source: ai-os-skills
